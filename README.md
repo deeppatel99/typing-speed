@@ -23,7 +23,7 @@ LIVE DEMO: [https://typing-speed-brown.vercel.app/](https://typing-speed-brown.v
 
 ## Feedback and Support
 
-If you encounter any issues while using the Typing Speed Test or have any feedback or suggestions for improvement, please feel free to [contact us](mailto:example@example.com).
+If you encounter any issues while using the Typing Speed Test or have any feedback or suggestions for improvement, please feel free to [contact us](mailto:deeppatel7521@gmail.com).
 
 ## Contributing
 
