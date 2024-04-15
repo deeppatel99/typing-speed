@@ -4,7 +4,7 @@ Welcome to the Typing Speed Test! This web application allows users to test and 
 
 ## Getting Started
 
-To begin using the Typing Speed Test, simply navigate to
+To begin using the Typing Speed Test, simply navigate to,
 
 LIVE DEMO: [https://typing-speed-brown.vercel.app/](https://typing-speed-brown.vercel.app/) 
 
